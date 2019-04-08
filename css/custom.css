@@ -607,6 +607,19 @@ header {
   display: none;
     color: #000;
 }
+@media screen and (max-width: 635px){
+    
+    .container {
+          max-width:330px;
+          width:100%;
+         
+          position:relative;
+            text-align: center;
+
+        }
+    
+    
+}
 
 @media screen and (max-width: 635px) {
   .nav-list a:not(:first-child) {display: none;}
