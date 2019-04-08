@@ -635,8 +635,9 @@ header {
         .container {
           max-width:400px;
           width:100%;
-          margin: 0px 0px 0px 40px;
+          margin: 0px 0px 0px 15px;
           position:relative;
+            text-align: center;
 
         }
         
