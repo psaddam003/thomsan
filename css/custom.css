@@ -556,6 +556,27 @@ footer a:hover {
         font-weight: 900;
         font-size: 16px;
         cursor: pointer; }
+@media screen and (max-width: 635px){
+    
+    footer .footer-content-container .social-review-links-container .review-btn {
+    margin-left: 0rem;
+    padding: 14px 6px 15px 3px;
+    border-radius: 1.5rem;
+    background-color: #b4b7b8;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+}
+    @media screen and (max-width: 635px){
+ .section-2 .practice-nav-container {
+    padding: 6rem .75rem;
+    text-align: center; }
+    }
+
+}
     footer .footer-content-container .copyright-text {
       margin: 1.5rem 0;     text-align: center;
 }
